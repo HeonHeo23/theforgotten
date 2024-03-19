@@ -1,2 +1,2 @@
-# theforgotten
+# InstantCode
 The Forgotten group
