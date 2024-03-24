@@ -1,6 +1,4 @@
 # InstantCode
-The Forgotten group
-
 
 To run editor:
 
